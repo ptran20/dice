@@ -17,7 +17,7 @@ var dice_img = document.querySelector(".dice");
 init();
 
 
-
+//add a comment for git hub
 //when ROLL button is clicked
 document.querySelector(".btn-roll").addEventListener("click", function () {
     if (gamePlaying) {
